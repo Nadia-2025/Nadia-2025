@@ -7,31 +7,23 @@
 - 🏡 Based in **Spain**  
 - ⚡ **Fun Facts**: ✈️ Traveling · 🌿 Nature · 🔍 Researching · 🏅 Sports
 
-<br>
 
 ## Connect with me ☕ :
-
-<br>
 
 [![@linkedin](https://img.icons8.com/fluency/48/000000/linkedin.png "@linkedin")](https://www.linkedin.com/in/nadia-koukouss-ouidra-652547a8/)
 [![@email](https://img.icons8.com/fluency/48/000000/apple-mail.png "@email")](nadyah-88@hotmail.com)
 
-<br>
 
 ## Skills 🧑‍💻 :
-
-<br>
 
 <img src="https://img.icons8.com/color/48/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/css3.png"/>  <img src="https://img.icons8.com/color/48/javascript--v1.png"/>  <img src="https://img.icons8.com/office/48/react.png"/>  <img src="https://img.icons8.com/color/48/bootstrap.png"/> 
 
 <img src="https://img.icons8.com/color/48/python.png"/>  <img src="https://img.icons8.com/color/48/flask.png"/> 
 
-
 <img src="https://img.icons8.com/color/48/postgreesql.png"/>  <img src="https://img.icons8.com/color/48/mysql-logo.png"/> 
 
 <img src="https://img.icons8.com/color/48/nodejs.png"/>  <img src="https://img.icons8.com/color/48/npm.png"/> 
 
-<br>
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -52,13 +44,8 @@
 </tr>
 </table>
 
-<br>
 
 ## GitHub Trophies 🏆 :
 
-<br>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nadia-2025)](https://github.com/Nadia-2025/github-profile-trophy)
-
-<br>
 
