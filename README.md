@@ -16,13 +16,7 @@
 
 ## Skills 🧑‍💻 :
 
-<img src="https://img.icons8.com/color/48/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/css3.png"/>  <img src="https://img.icons8.com/color/48/javascript--v1.png"/>  <img src="https://img.icons8.com/office/48/react.png"/>  <img src="https://img.icons8.com/color/48/bootstrap.png"/> 
-
-<img src="https://img.icons8.com/color/48/python.png"/>  <img src="https://img.icons8.com/color/48/flask.png"/> 
-
-<img src="https://img.icons8.com/color/48/postgreesql.png"/>  <img src="https://img.icons8.com/color/48/mysql-logo.png"/> 
-
-<img src="https://img.icons8.com/color/48/nodejs.png"/>  <img src="https://img.icons8.com/color/48/npm.png"/> 
+<img src="https://img.icons8.com/color/48/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/css3.png"/>  <img src="https://img.icons8.com/color/48/javascript--v1.png"/>  <img src="https://img.icons8.com/office/48/react.png"/>  <img src="https://img.icons8.com/color/48/bootstrap.png"/>  <img src="https://img.icons8.com/color/48/python.png"/>  <img src="https://img.icons8.com/color/48/flask.png"/> <img src="https://img.icons8.com/color/48/postgreesql.png"/>  <img src="https://img.icons8.com/color/48/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/nodejs.png"/> 
 
 
 <h3 align="center">My Statistics:</h3>
