@@ -1,16 +1,74 @@
-## Hi there 👋
+// <div align="center" width="50">
+    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
+</div>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Nadia</h1>
 
-<!--
-**Nadia-2025/Nadia-2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/Nadia-2025?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/Nadia-2025?style=social) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Nadia-2025.repoName) 
+<img src="https://komarev.com/ghpvc/?username=Nadia-2025" alt="Nadia-2025" />
 
-Here are some ideas to get you started:
+## About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Specialized training in Full Stack Web Development  
+- 🏡 Based in **Spain**  
+- ⚡ **Fun Facts**: ✈️ Traveling · 🌿 Nature · 🔍 Researching · 🏅 Sports
+
+<br>
+
+## Connect with me ☕ :
+
+<br>
+
+[![@linkedin](https://img.icons8.com/fluency/48/000000/linkedin.png "@linkedin")](https://www.linkedin.com/in/nadia-koukouss-ouidra-652547a8/)
+[![@email](https://img.icons8.com/fluency/48/000000/apple-mail.png "@email")](nadyah-88@hotmail.com)
+
+<br>
+
+## What I am Good at 🧑‍💻 :
+
+<br>
+
+<img src="https://img.icons8.com/color/48/html-5--v1.png"/> 
+<img src="https://img.icons8.com/color/48/css3.png"/> 
+<img src="https://img.icons8.com/color/48/javascript--v1.png"/> 
+<img src="https://img.icons8.com/office/48/react.png"/> 
+<img src="https://img.icons8.com/color/48/bootstrap.png"/> 
+
+<img src="https://img.icons8.com/color/48/python.png"/> 
+<img src="https://img.icons8.com/color/48/flask.png"/> 
+<img src="https://img.icons8.com/color/48/json-web-token.png"/> 
+
+<img src="https://img.icons8.com/color/48/postgreesql.png"/> 
+<img src="https://img.icons8.com/color/48/mysql-logo.png"/> 
+
+<img src="https://img.icons8.com/color/48/nodejs.png"/> 
+<img src="https://img.icons8.com/color/48/npm.png"/> 
+
+<br>
+
+## GitHub Stats 📈 :
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nadia-2025&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+[![Nadia-2025 GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadia-2025&theme=algolia)](https://github.com/Nadia-2025/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadia-2025&theme=algolia)](https://github.com/Nadia-2025/github-readme-stats) 
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nadia-2025&theme=algolia)](https://github.com/Nadia-2025/github-readme-stats)
+
+<br>
+
+## GitHub Trophies 🏆 :
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nadia-2025)](https://github.com/Nadia-2025/github-profile-trophy)
+
+<br>
+
+## Activity Graph 📊 :
+
+<br>
+
+[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Nadia-2025&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/Nadia-2025)
+
