@@ -47,14 +47,24 @@
 
 <br>
 
-## GitHub Stats 📈 :
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nadia-2025&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nadia streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nadia-2025&theme=dark&hide_border=false" /> 
 
-<br>
+</td>
+<td width="50%" align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nadia-2025&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-[![Nadia-2025 GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadia-2025&theme=algolia)](https://github.com/Nadia-2025/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadia-2025&theme=algolia)](https://github.com/Nadia-2025/github-readme-stats) 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nadia-2025&theme=algolia)](https://github.com/Nadia-2025/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nadia-2025&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
