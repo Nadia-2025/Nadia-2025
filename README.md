@@ -1,12 +1,5 @@
-// <div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
-</div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Nadia</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/Nadia-2025?style=social) 
-![GitHub User's stars](https://img.shields.io/github/stars/Nadia-2025?style=social) 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Nadia-2025.repoName) 
-<img src="https://komarev.com/ghpvc/?username=Nadia-2025" alt="Nadia-2025" />
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Nadia</h1>
 
 ## About Me :
 
@@ -25,25 +18,18 @@
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+## Skills 🧑‍💻 :
 
 <br>
 
-<img src="https://img.icons8.com/color/48/html-5--v1.png"/> 
-<img src="https://img.icons8.com/color/48/css3.png"/> 
-<img src="https://img.icons8.com/color/48/javascript--v1.png"/> 
-<img src="https://img.icons8.com/office/48/react.png"/> 
-<img src="https://img.icons8.com/color/48/bootstrap.png"/> 
+<img src="https://img.icons8.com/color/48/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/css3.png"/>  <img src="https://img.icons8.com/color/48/javascript--v1.png"/>  <img src="https://img.icons8.com/office/48/react.png"/>  <img src="https://img.icons8.com/color/48/bootstrap.png"/> 
 
-<img src="https://img.icons8.com/color/48/python.png"/> 
-<img src="https://img.icons8.com/color/48/flask.png"/> 
-<img src="https://img.icons8.com/color/48/json-web-token.png"/> 
+<img src="https://img.icons8.com/color/48/python.png"/>  <img src="https://img.icons8.com/color/48/flask.png"/> 
 
-<img src="https://img.icons8.com/color/48/postgreesql.png"/> 
-<img src="https://img.icons8.com/color/48/mysql-logo.png"/> 
 
-<img src="https://img.icons8.com/color/48/nodejs.png"/> 
-<img src="https://img.icons8.com/color/48/npm.png"/> 
+<img src="https://img.icons8.com/color/48/postgreesql.png"/>  <img src="https://img.icons8.com/color/48/mysql-logo.png"/> 
+
+<img src="https://img.icons8.com/color/48/nodejs.png"/>  <img src="https://img.icons8.com/color/48/npm.png"/> 
 
 <br>
 
@@ -75,10 +61,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nadia-2025)](https://github.com/Nadia-2025/github-profile-trophy)
 
 <br>
-
-## Activity Graph 📊 :
-
-<br>
-
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Nadia-2025&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/Nadia-2025)
 
